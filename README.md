@@ -27,7 +27,7 @@ Watch the full tutorial here:
 
 ### Libraries
 
-- `[Adafruit_TinyUSB_MIDI GitHub Repository](https://github.com/silveirago/Adafruit_TinyUSB_MIDI)`: This library allows for USB MIDI communication.
+- `Adafruit_TinyUSB_MIDI`: This library allows for USB MIDI communication. [Download here:](https://github.com/silveirago/Adafruit_TinyUSB_MIDI)
 - `ResponsiveAnalogRead`: This library provides smoothed analog readings from sensors like LDR.
 
 
