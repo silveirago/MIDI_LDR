@@ -68,3 +68,9 @@ The mapped LDR value is sent as a MIDI Control Change message (Control Change 1 
 ## License
 
 This code is provided under the MIT License.
+
+## Learn how to build your MIDI controllers
+
+- [Nerd Musician Pro (all the courses)](https://go.musiconerd.com/nerd-musician-pro)
+- [DIY MIDI Controller Workshop (free course)](https://go.musiconerd.com/diy-midi-controller-workshop)
+- [Fazendo Música com Arduino (Português)](https://go.musiconerd.com/fazendo-musica-com-arduino)
