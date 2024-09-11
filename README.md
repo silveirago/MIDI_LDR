@@ -3,7 +3,7 @@
 
 This project allows you to use a Light Dependent Resistor (LDR) as a MIDI controller. The LDR values are smoothed using the ResponsiveAnalogRead library and mapped to MIDI Control Change messages, which can be read by any MIDI-compatible software.
 
-Watch the full tutorial here:
+## Watch the full tutorial
 
 [Make a MIDI Controller with the Raspberry Pi Pico: a MIDI Fidget Spinner](https://youtu.be/V3-PUsuYGzs)
 
@@ -27,10 +27,8 @@ Watch the full tutorial here:
 
 ### Libraries
 
-- `Adafruit_TinyUSB_MIDI`: This library allows for USB MIDI communication. [Download here:](https://github.com/silveirago/Adafruit_TinyUSB_MIDI)
+- `Adafruit_TinyUSB_MIDI`: This library allows for USB MIDI communication. [Download the lib here.](https://github.com/silveirago/Adafruit_TinyUSB_MIDI)
 - `ResponsiveAnalogRead`: This library provides smoothed analog readings from sensors like LDR.
-
-
 
 ### Pins
 
