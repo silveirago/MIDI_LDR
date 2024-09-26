@@ -1,7 +1,7 @@
 #include <Adafruit_TinyUSB_MIDI.h>
 #include <ResponsiveAnalogRead.h>
 
-Adafruit_TinyUSB_MIDI_Class MIDI;
+Adafruit_TinyUSB_MIDI MIDI;
 
 // Constants
 const int LDR_PIN = A0;     // Pin where the LDR is connected
